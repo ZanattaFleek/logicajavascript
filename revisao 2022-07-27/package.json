@@ -1,0 +1,10 @@
+{
+  "name": "revisao-2022-07-27",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "executar": "echo Estou Executando Script Executar"
+  },
+  "author": "",
+  "license": "ISC"
+}
